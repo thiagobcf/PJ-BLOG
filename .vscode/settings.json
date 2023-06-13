@@ -6,7 +6,7 @@
     "explorer.compactFolders": false,
     "terminal.integrated.fontSize": 14,
     "editor.minimap.enabled":false,
-    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.vertical": "auto",
     "editor.overviewRulerBorder": false,
     "workbench.iconTheme": "material-icon-theme",
     "code-runner.executorMap": {
