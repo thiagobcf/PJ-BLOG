@@ -3,11 +3,13 @@
     "editor.fontSize": 15,
     "editor.hover.enabled": true,
     "workbench.startupEditor": "none",
+    "workbench.editor.showTabs": true,
     "explorer.compactFolders": false,
     "terminal.integrated.fontSize": 14,
     "editor.minimap.enabled":false,
-    "editor.scrollbar.vertical": "auto",
+    "editor.scrollbar.vertical": "hidden",
     "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
     "workbench.iconTheme": "material-icon-theme",
     "code-runner.executorMap": {
       "python": "clear ; python -u"
