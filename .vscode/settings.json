@@ -1,6 +1,15 @@
 {
-  "window.zoomLevel": -0.3,
-  "editor.fontSize": 17,
+  // macOS Modern Tweaks
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  "editor.fontWeight": "normal",
+  "window.titleBarStyle": "native",
+  "window.nativeTabs": true,
+  "window.zoomLevel": -0.5,
+  // Disable Tab File Icons
+  "workbench.editor.showIcons": false,
+  // Disable Red Sidebar Errors
+  "problems.decorations.enabled": false,
   "editor.hover.enabled": true,
   "workbench.startupEditor": "none",
   "explorer.compactFolders": false,
@@ -10,8 +19,7 @@
     80,
     120
   ],
-  
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "vscode-icons-mac",
   "code-runner.executorMap": {
     "python": "clear ; python -u"
   },
