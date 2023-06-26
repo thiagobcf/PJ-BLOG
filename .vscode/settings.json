@@ -1,6 +1,6 @@
 {
   // macOS Modern Tweaks
-  "editor.fontSize": 16,
+  "editor.fontSize": 16.5,
   "editor.tabSize": 2,
   "editor.fontWeight": "normal",
   "window.titleBarStyle": "native",
