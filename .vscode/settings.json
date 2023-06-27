@@ -19,7 +19,7 @@
     80,
     120
   ],
-  "workbench.iconTheme": "vscode-icons-mac",
+  "workbench.iconTheme": "symbols",
   "code-runner.executorMap": {
     "python": "clear ; python -u"
   },
