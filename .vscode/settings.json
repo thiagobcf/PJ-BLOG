@@ -5,7 +5,7 @@
   "editor.fontWeight": "normal",
   "window.titleBarStyle": "native",
   "window.nativeTabs": true,
-  "window.zoomLevel": -0.5,
+  "window.zoomLevel": -0.2,
   // Disable Tab File Icons
   "workbench.editor.showIcons": false,
   // Disable Red Sidebar Errors
